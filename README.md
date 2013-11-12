@@ -10,6 +10,6 @@ A complete tutorial on how your going to install most of the common web developm
 
 ### Sample Screenshot
 
-![alt text](https://raw.github.com/pokoot/workflow/master/screenshot.png "Vim Editor")
+![alt text](https://raw.github.com/pokoot/vim/master/screenshot.png "Vim Editor")
 
 
