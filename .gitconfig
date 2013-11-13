@@ -10,8 +10,8 @@
 
 
 [user]
-    name = pokoot
-    email = pokoot@gmail.com
+    name = name
+    email = name@gmail.com
 
 [push]
     default = matching
