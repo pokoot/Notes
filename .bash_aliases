@@ -105,6 +105,13 @@ alias server='python -m SimpleHTTPServer 8000'
 PATH=$PATH:~/.composer/vendor/bin
 export PATH
 
+# Update System
+alias update='sudo apt-get update'
+
+
+# More Shortcuts
+alias www='cd /var/www'
+alias g='git'
 
 
 
@@ -119,6 +126,4 @@ parse_git_branch() {
 }
 PS1="${debian_chroot:+($debian_chroot)}${LIGHT_GREEN}\u@\h${COLOR_NONE}:${LIGHT_BLUE}\w${LIGHT_YELLOW}\$(parse_git_branch) ${LIGHT_RED}$ ${COLOR_NONE}"
 
-# Update System
-alias update='sudo apt-get update'
 
