@@ -10,8 +10,8 @@ A complete tutorial on how your going to install most of the common web developm
 
 
 
-### Tutorial
 
-# [Click this link to get started!](https://github.com/pokoot/tools/wiki)
+
+# [Start >>](https://github.com/pokoot/tools/wiki)
 
 
