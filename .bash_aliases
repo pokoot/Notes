@@ -112,7 +112,7 @@ alias update='sudo apt-get update'
 # More Shortcuts
 alias www='cd /var/www'
 alias g='git'
-alias pp='git add . && git commit -m "Update new changes." && git push'
+alias pp='git add . && git commit -m "new updates" && git push'
 
 
 
